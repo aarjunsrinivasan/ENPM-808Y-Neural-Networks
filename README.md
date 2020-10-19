@@ -12,7 +12,7 @@ Install requirements file.
 pip install -r requirements.txt
 `
 
-######For installing and using VOTT refer the VOTT_Instructions.pdf
+###### For installing and using VOTT refer the VOTT_Instructions.pdf
 
 Steps to train/test model for defect prediction in layup process.
 
