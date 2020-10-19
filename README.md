@@ -1,4 +1,3 @@
-# ENPM-808Y-Neural-Networks
 # AFP
 
 #### Advancing the Automated Fiber Placement
