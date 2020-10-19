@@ -12,7 +12,7 @@ Install requirements file.
 pip install -r requirements.txt
 `
 
-###### For installing and using VOTT refer the VOTT_Instructions.pdf
+###### For installing and using VOTT refer the [VOTT_Instructions.pdf](https://emailsc-my.sharepoint.com/:b:/r/personal/ebarnett_email_sc_edu/Documents/AFP_DATASETS/AFP_Defect_Models/afp-new/afp/VOTT_Instructions.pdf?csf=1&web=1&e=0fcGas)
 
 Steps to train/test model for defect prediction in layup process.
 
